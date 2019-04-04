@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: spcloud.feigncus
+Implementation-Version: 1.0
+Built-By: adouhu
+Implementation-Vendor-Id: com.adou1
+Build-Jdk: 1.8.0_131
+Implementation-URL: http://projects.spring.io/spring-boot/adou1.spclou
+ d/spcloud.feigncus/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
